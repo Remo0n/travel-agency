@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install`
+
+Install all required dependencies.
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -20,7 +24,7 @@ mainly one screens
 
 - Navbar simple UI.
 
-- youn can search for you destination with simple dummy search..
+- youn can search for you destination with simple dummy search.
 
 - start and date calculate total nights and adjust end date if you changed the totla nights.
 
